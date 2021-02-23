@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="52px" viewBox="0 0 53 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>@1.5xfilter</title>
+    <g id="Resturant/AppUser" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B01" transform="translate(-302.000000, -159.000000)">
+            <g id="Group-15" transform="translate(26.500000, 128.000000)">
+                <g id="Group-14" transform="translate(2.000000, 31.000000)">
+                    <g id="filter" transform="translate(274.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" fill="#FFE43E" x="0" y="0" width="52" height="52" rx="14"></rect>
+                        <g id="system-preferences" transform="translate(16.000000, 16.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <line x1="4.16666667" y1="19.1666667" x2="4.16666667" y2="15.8333333" id="Path"></line>
+                            <line x1="4.16666667" y1="5.83333333" x2="4.16666667" y2="0.833333333" id="Path"></line>
+                            <circle id="Oval" cx="4.16666667" cy="12.5" r="3.33333333"></circle>
+                            <line x1="15.8333333" y1="0.833333333" x2="15.8333333" y2="4.16666667" id="Path"></line>
+                            <line x1="15.8333333" y1="14.1666667" x2="15.8333333" y2="19.1666667" id="Path"></line>
+                            <circle id="Oval" cx="15.8333333" cy="7.5" r="3.33333333"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>@1.5xsearch</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.501961 0 0 0 0 0.556863 0 0 0 0 0.607843 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Resturant/AppUser" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.400000006" stroke-linecap="round" stroke-linejoin="round">
+        <g id="B01" transform="translate(-48.000000, -174.000000)">
+            <g id="Group-15" transform="translate(26.500000, 128.000000)">
+                <g id="search" transform="translate(2.000000, 31.000000)" filter="url(#filter-1)">
+                    <g transform="translate(20.000000, 16.000000)">
+                        <line x1="19.375" y1="19.375" x2="15.625" y2="15.625" id="Path" stroke="#1E272E" stroke-width="2"></line>
+                        <circle id="Oval" stroke="#1E272E" stroke-width="2" cx="8.125" cy="8.125" r="7.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
